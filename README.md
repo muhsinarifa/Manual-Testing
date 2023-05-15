@@ -1,4 +1,4 @@
-**First I created [Test Plan For Meesho(APP)](https://drive.google.com/file/d/1DhYNiwS4VWUvozrQqTk7C0wdrXFckfjM/view?usp=share_link) for this Manual Testing**
+**First I have created [Test Plan For Meesho(APP)](https://drive.google.com/file/d/1DhYNiwS4VWUvozrQqTk7C0wdrXFckfjM/view?usp=share_link) for this Manual Testing**
 
 **Then run functional test cases. Here is the image below:**
 
